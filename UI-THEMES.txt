@@ -1,0 +1,13 @@
+INDIVIDUAL ROOF TEXTURES - THEME-SPECIFIC UI SOURCES
+
+roof-panel-2x.txt is the existing DarkClean2x layout. Keep its -40 background
+offset for DarkClean. This file was not changed.
+
+roof-panel-Maxis-4K.txt is the corrected Maxis2x layout, with background left0.
+roof-panel-Maxis-Standard.txt is the verified existing Maxis1x layout.
+Use the matching theme source when rebuilding the texture-picker UI packages.
+Do not regenerate Maxis from the DarkClean-specific2x source.
+
+Ready-to-share Maxis packages are in ../TS2-IndividualRoofTextures/Downloads.
+Only this project's texture-picker layout is involved; NoEaves icon/alpha
+packages and ASIs are not changed. Live game packages are not changed here.
